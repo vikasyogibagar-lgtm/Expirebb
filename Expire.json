@@ -1,9 +1,6 @@
 {
-  "showDialog": true,
-  "latestVersionCode": 2,
-  "latestVersionName": "3.1",
-  "title": "𝐕3 𝐔ᴘᴅᴀᴛᴇ 𝐀ᴠᴀɪʟᴀʙʟᴇ",
-  "message": "𝐍ᴇᴡ 𝐔ᴘᴅᴀᴛᴇᴅ  𝐕ᴇʀsɪᴏɴ 𝐔ᴘʟᴏᴀᴅᴇᴅ 𝐎ɴ 𝐎ᴜʀ 𝐓ᴇʟᴇɢʀᴀᴍ 𝐂ʜᴀɴɴᴇʟ 𝐉ᴏɪɴ 𝐀ɴᴅ 𝐔sᴇ  𝐔ᴘᴅᴀᴛᴇᴅ 𝐌ᴏᴅ",
-  "UpdateButtonText": "𝐃ᴏᴡɴʟᴏᴀᴅ",
-  "UpdateButtonUrl": "https://t.me/+-CrsC1wqr540N2Jl"
+  "message": "Your app is expired. Extend the validity now to continue enjoying the app thanks!",
+  "expirationDate": "2025-04-04",
+  "dateFormat": "yyyy-MM-dd",
+  "buttonLink": "https://t.me/+-CrsC1wqr540N2Jl"
 }
