@@ -1,6 +1,9 @@
 {
-  "message": "Your app is expired. Extend the validity now to continue enjoying the app thanks!",
-  "expirationDate": "2025-04-04",
-  "dateFormat": "yyyy-MM-dd",
-  "buttonLink": "https://t.me/+-CrsC1wqr540N2Jl"
+  "showDialog": true,
+  "latestVersionCode": 2,
+  "latestVersionName": "1.1",
+  "title": "NEW UPDATE AVAILABLE",
+  "message": "MOD MENU EXPIRED ! PLEASE UPDATE YOUR MOD MENU",
+  "UpdateButtonText": "UPDATE NOW",
+  "UpdateButtonUrl": "https://t.me/+-CrsC1wqr540N2Jl"
 }
